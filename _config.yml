@@ -1,0 +1,23 @@
+name: Liad
+favicon: null
+layout_spectrum: 0.1571014707442373
+typography_spectrum: 0.9684870282653719
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.24374668509699404
+  lightness: 0.3658246423583478
+  saturation: 0.7136455776635557
+  rhythmicContrast: 0.8450871261302382
+purpose: []
